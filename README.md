@@ -10,4 +10,4 @@ docker run public.ecr.aws/o0p0b7e7/stone --help
 
 ## Related Links
 
-- https://gallery.ecr.aws/o0p0b7e7/
+- https://gallery.ecr.aws/o0p0b7e7/stone
